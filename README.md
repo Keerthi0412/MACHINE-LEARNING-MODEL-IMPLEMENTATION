@@ -70,4 +70,6 @@ Fine-tuning the model with different classifiers or hyperparameter tuning.
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/e2a99c45-14d2-427d-8fc6-f6264a487bb7)
 
+![Image](https://github.com/user-attachments/assets/4d749a9d-a84d-4df7-92d5-f2cc26a06fea)
